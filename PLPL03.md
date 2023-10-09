@@ -1,9 +1,7 @@
 JavaScript and Functions
 
-Write code for given requirements:
 
-javascript
-Copy code
+```javascript
 // Multiply two numbers
 function multiply(a, b) {
     return a * b;
@@ -35,6 +33,7 @@ function testPassBy(arr) {
 }
 let originalArray = [1, 2, 3];
 let modifiedArray = testPassBy([...originalArray]);
+```
 Addressing the questions:
 
 Syntax for declaring a function:
