@@ -1,4 +1,4 @@
-### JavaScript Control Statements Tutorial: Assignment 4
+# JavaScript Control Statements Tutorial: Assignment 4
 
 ## Introduction
 
@@ -20,7 +20,7 @@ In JavaScript, the boolean values are true and false.
 
 JavaScript provides the following conditional statements:
 
-# if/else
+**if/else:**
 One-condition if/else:
 
 ```javascript
@@ -40,7 +40,7 @@ if (x > 0 && y < 10) {
     console.log("Condition not met");
 }
 ```
-# if/else if/else:
+ **if/else if/else:** 
 
 ```javascript
 if (x > 10) {
