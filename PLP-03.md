@@ -6,12 +6,13 @@ JavaScript is a powerful scripting language used primarily for web development. 
 
 ## Table of Contents
 
-Boolean Values in JavaScript
-Types of Conditional Statements
-Code Block Delimiters
-Short-Circuit Evaluation
-The "Dangling Else" Problem
-Switch or Case Statements
+- Boolean Values in JavaScript
+- Types of Conditional Statements
+- Code Block Delimiters
+- Short-Circuit Evaluation
+- The "Dangling Else" Problem
+- Switch or Case Statements
+
 ## Boolean Values in JavaScript
 
 In JavaScript, the boolean values are true and false.
@@ -31,7 +32,7 @@ if (x === true) {
 }
 ```
 
-Multi-condition if/else:
+**Multi-condition if/else:**
 
 ```javascript
 if (x > 0 && y < 10) {
