@@ -108,4 +108,5 @@ In JavaScript, without a break, multiple cases will execute.
 Understanding control statements in JavaScript is fundamental for decision-making in your code. Practice the above examples and experiment with variations to strengthen your grasp of these concepts.
 
 ## Sources
-Mozilla Developer Network - JavaScript Guide
+[Mozilla Developer Network - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
