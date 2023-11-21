@@ -39,8 +39,8 @@ This Hangman game project aims to create an interactive word-guessing game using
 
 ## Project Timeline
 
-- **Week 1:** Set up the basic UI structure and create SVG graphics for the hangman figure.
-- **Week 2:** Implement word selection and word display with underscores.
+- **Week 1:** Set up the basic UI structure and start on using javascript to ensure backend is responsive with the frontend.
+- **Week 2:**  create SVG graphics for the hangman figure and implement word selection and word display with underscores.
 - **Week 3:** Develop the game logic for guessing letters and updating the display.
 - **Week 4:** Handle end game conditions and implement replay functionality.
 - **Week 5:** Final testing, debugging, and documentation.
